@@ -1,0 +1,150 @@
+﻿,drugName,condition,rating,usefulCount,eff_score,usefulness
+0,Valsartan,Left Ventricular Dysfunction,9,27,1,243
+1,Guanfacine,ADHD,8,192,1,1536
+2,Lybrel,Birth Control,5,17,0,0
+3,Ortho Evra,Birth Control,8,10,1,80
+4,Buprenorphine / naloxone,Opiate Dependence,9,37,1,333
+5,Cialis,Benign Prostatic Hyperplasia,2,43,0,0
+6,Levonorgestrel,Emergency Contraception,1,5,0,0
+7,Aripiprazole,Bipolar Disorde,10,32,1,320
+8,Keppra,Epilepsy,1,11,0,0
+9,Ethinyl estradiol / levonorgestrel,Birth Control,8,1,1,8
+10,Topiramate,Migraine Prevention,9,19,1,171
+11,L-methylfolate,Depression,10,54,1,540
+12,Pentasa,Crohn's Disease,4,8,0,0
+13,Dextromethorphan,Cough,4,1,0,0
+14,Nexplanon,Birth Control,3,10,0,0
+15,Liraglutide,Obesity,9,20,1,180
+16,Trimethoprim,Urinary Tract Infection,9,0,1,0
+17,Amitriptyline,ibromyalgia,9,39,1,351
+18,Lamotrigine,Bipolar Disorde,10,18,1,180
+19,Nilotinib,Chronic Myelogenous Leukemia,10,11,1,110
+20,Atripla,HIV Infection,8,11,1,88
+21,Trazodone,Insomnia,10,43,1,430
+22,Etonogestrel,Birth Control,9,11,1,99
+23,Etanercept,Rheumatoid Arthritis,10,4,1,40
+24,Tioconazole,Vaginal Yeast Infection,1,7,0,0
+25,Azithromycin,Chlamydia Infection,7,7,1,49
+26,Eflornithine,Hirsutism,10,99,1,990
+27,Daytrana,ADHD,10,11,1,110
+28,Ativan,Panic Disorde,6,47,1,282
+29,Imitrex,Migraine,8,6,1,48
+31,Sertraline,Depression,8,3,1,24
+32,Toradol,Pain,10,16,1,160
+33,Tioconazole,Vaginal Yeast Infection,1,2,0,0
+34,Viberzi,Irritable Bowel Syndrome,8,15,1,120
+35,Mobic,Osteoarthritis,10,82,1,820
+36,Dulcolax,Constipation,1,10,0,0
+37,Morphine,Pain,8,19,1,152
+38,MoviPrep,Bowel Preparation,2,0,0,0
+39,Trilafon,Psychosis,9,45,1,405
+40,Fluconazole,Vaginal Yeast Infection,8,9,1,72
+41,Contrave,Obesity,8,9,1,72
+42,Clonazepam,Panic Disorde,9,30,1,270
+43,Metaxalone,Muscle Spasm,5,55,0,0
+44,Venlafaxine,Depression,4,3,0,0
+45,Ledipasvir / sofosbuvir,Hepatitis C,10,0,1,0
+46,Ledipasvir / sofosbuvir,Hepatitis C,9,94,1,846
+47,Symbyax,Bipolar Disorde,8,22,1,176
+48,Tamsulosin,Overactive Bladde,4,10,0,0
+49,Doxycycline,Urinary Tract Infection,7,44,1,308
+50,Dulaglutide,"Diabetes, Type 2",10,24,1,240
+51,Intuniv,ADHD,1,23,0,0
+52,Buprenorphine,Pain,8,125,1,1000
+53,Qvar,"Asthma, Maintenance",1,16,0,0
+54,Opdivo,Non-Small Cell Lung Cance,1,6,0,0
+55,Aripiprazole,Schizophrenia,10,26,1,260
+56,Pyridium,Dysuria,1,8,0,0
+57,Latuda,Bipolar Disorde,8,39,1,312
+58,Bupropion,Smoking Cessation,10,15,1,150
+59,Implanon,Birth Control,2,1,0,0
+60,Effexor XR,Anxiety,6,23,1,138
+61,Drospirenone / ethinyl estradiol,Birth Control,3,8,0,0
+62,Buprenorphine,Pain,10,47,1,470
+63,Implanon,Birth Control,1,2,0,0
+64,NuvaRing,Birth Control,5,9,0,0
+65,Prepopik,Bowel Preparation,9,6,1,54
+66,Tretinoin,Acne,10,13,1,130
+67,Effexor XR,Depression,10,166,1,1660
+68,Gildess Fe 1 / 20,Birth Control,2,2,0,0
+69,Ethinyl estradiol / norgestimate,Acne,9,7,1,63
+70,Elbasvir / grazoprevir,Hepatitis C,10,8,1,80
+71,Clomiphene,emale Infertility,10,74,1,740
+72,Docusate / senna,"Constipation, Acute",8,3,1,24
+73,Amitiza,"Constipation, Drug Induced",10,35,1,350
+74,Etonogestrel,Birth Control,10,1,1,10
+75,Nexplanon,Birth Control,6,1,1,6
+76,Sildenafil,Erectile Dysfunction,10,14,1,140
+77,Lo Loestrin Fe,Birth Control,2,5,0,0
+78,Ledipasvir / sofosbuvir,Hepatitis C,10,36,1,360
+79,Sertraline,Panic Disorde,10,28,1,280
+80,Oxcarbazepine,Trigeminal Neuralgia,7,15,1,105
+81,Wellbutrin,Depression,4,15,0,0
+82,NuvaRing,Birth Control,7,9,1,63
+83,Levonorgestrel,Birth Control,1,10,0,0
+84,Phillips' Milk of Magnesia,Constipation,9,120,1,1080
+85,Nature-Throid,Underactive Thyroid,1,18,0,0
+86,Lithium,Bipolar Disorde,10,27,1,270
+87,Oxycodone,Chronic Pain,8,24,1,192
+88,Cialis,Benign Prostatic Hyperplasia,10,132,1,1320
+89,Estradiol,Atrophic Vaginitis,9,128,1,1152
+90,Sronyx,Birth Control,3,3,0,0
+91,Augmentin XR,Skin and Structure Infection,9,37,1,333
+92,Monistat 7-Day Combination Pack,Vaginal Yeast Infection,8,5,1,40
+93,Plan B One-Step,Emergency Contraception,9,26,1,234
+94,Alprazolam,Tinnitus,10,87,1,870
+95,Fluoxetine,Major Depressive Disorde,2,18,0,0
+96,Aripiprazole,Depression,4,33,0,0
+97,NuvaRing,Birth Control,5,0,0,0
+98,Spironolactone,Acne,9,31,1,279
+99,Fluvoxamine,Anxiety and Stress,9,44,1,396
+100,Macrobid,Urinary Tract Infection,1,16,0,0
+101,Lurasidone,Schizophrenia,8,0,1,0
+102,Adapalene / benzoyl peroxide,Acne,8,12,1,96
+103,Brimonidine,Rosacea,1,16,0,0
+104,Amlodipine / olmesartan,High Blood Pressure,10,10,1,100
+105,Loestrin 24 Fe,2</span> users found this comment helpful.,3,2,0,0
+106,Linaclotide,Irritable Bowel Syndrome,8,17,1,136
+107,Mirtazapine,Anxiety,8,72,1,576
+108,Acetaminophen / hydrocodone,Pain,8,3,1,24
+109,Isotretinoin,Acne,7,10,1,70
+110,Ropinirole,Restless Legs Syndrome,10,14,1,140
+111,Zoledronic acid,Osteolytic Bone Metastases of Solid Tumors,10,31,1,310
+112,Lamictal,Bipolar Disorde,9,46,1,414
+113,Levonorgestrel,Birth Control,10,1,1,10
+114,Buspirone,Anxiety,9,9,1,81
+115,Propranolol,Anxiety,10,40,1,400
+116,Focalin,ADHD,9,48,1,432
+117,Ethinyl estradiol / levonorgestrel,Birth Control,9,10,1,90
+118,Jolivette,Birth Control,8,10,1,80
+119,Levofloxacin,Bronchitis,8,20,1,160
+120,Phentermine / topiramate,Obesity,9,22,1,198
+121,Cephalexin,Skin or Soft Tissue Infection,1,7,0,0
+122,Aviane,Birth Control,9,3,1,27
+123,Etonogestrel,Birth Control,3,0,0,0
+124,Saxenda,Obesity,1,17,0,0
+125,Clomipramine,Obsessive Compulsive Disorde,1,3,0,0
+126,Medroxyprogesterone,Endometriosis,9,51,1,459
+127,Ethinyl estradiol / levonorgestrel,Birth Control,10,23,1,230
+128,Aczone,Acne,8,7,1,56
+129,Nicoderm CQ,Smoking Cessation,8,50,1,400
+130,Dextromethorphan,Cough,1,3,0,0
+131,Naltrexone,Opiate Dependence,6,14,1,84
+132,Restasis,Keratoconjunctivitis Sicca,9,40,1,360
+133,Depo-Provera,Birth Control,6,1,1,6
+134,Olanzapine,Bipolar Disorde,9,9,1,81
+135,Oxytrol,Overactive Bladde,9,60,1,540
+136,Fentanyl,Breakthrough Pain,6,17,1,102
+137,Epiduo,Acne,3,1,0,0
+138,Etonogestrel,Birth Control,9,8,1,72
+139,Levonorgestrel,Birth Control,2,2,0,0
+140,Epiduo,Acne,10,34,1,340
+141,Accutane,Acne,9,9,1,81
+142,Xanax,Panic Disorde,10,41,1,410
+143,Desvenlafaxine,Depression,10,101,1,1010
+144,Levonorgestrel,Birth Control,3,4,0,0
+145,Keppra,Seizures,9,11,1,99
+146,Dulaglutide,"Diabetes, Type 2",9,12,1,108
+147,Morphine,Chronic Pain,5,54,0,0
+149,Lyrica,Neuropathic Pain,1,13,0,0
+150,Fluoxetine,Depression,1,19,0,0
