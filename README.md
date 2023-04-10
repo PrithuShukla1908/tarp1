@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 To deploy the project you need to run app.py and results.html files simultaneously
 
 ## Screenshots
-
+![ScreenShot](https://github.com/PrithuShukla1908/tarp1/blob/master/s1.jpg)
 ## License
 
 MIT License
