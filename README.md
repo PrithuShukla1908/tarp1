@@ -15,11 +15,11 @@ To deploy the project you need to run app.py and results.html files simultaneous
 ![ScreenShot](https://github.com/PrithuShukla1908/tarp1/blob/master/s1.jpg)
 ![ScreenShot](https://github.com/PrithuShukla1908/tarp1/blob/master/s2.jpg)
 ![ScreenShot](https://github.com/PrithuShukla1908/tarp1/blob/master/s3.jpg)
-## License
 
 ## Reproducible Capsule
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PrithuShukla1908/tarp1/HEAD?labpath=https%3A%2F%2Fgithub.com%2FPrithuShukla1908%2Ftarp1%2Fblob%2Fmaster%2Fresults.html)
-MIT License
+
+## MIT License
 
 Copyright (c) 2023 Drug Reaction checker and statistical analysis of usefulness of drugs
 
