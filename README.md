@@ -13,8 +13,8 @@ To deploy the project you need to run app.py and results.html files simultaneous
 
 ## Screenshots
 ![ScreenShot](https://github.com/PrithuShukla1908/tarp1/blob/master/s1.jpg)
-![ScreenShot]
-![ScreenShot]
+![ScreenShot](https://github.com/PrithuShukla1908/tarp1/blob/master/s2.jpg)
+![ScreenShot](https://github.com/PrithuShukla1908/tarp1/blob/master/s3.jpg)
 ## License
 
 MIT License
